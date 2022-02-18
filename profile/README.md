@@ -2,3 +2,7 @@
 	<img src="assets\readme.png" width="100" alt="Logo"/><br/>
 	Frog Developers
 </h3>
+
+<p align="center">
+    We are a group of students and developers made up of knowledge and focus to create quality work for our clients. We think frogs represent the idea of growth, renewal and wholeness well. This is our motto! 🐸
+</p>
