@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets\readme.png" width="200" alt="Logo"/><br/>
+	<img src="assets\readme.png" width="200" height="100" alt="Logo"/><br/>
 	Frog Developers
 </h3>
 
