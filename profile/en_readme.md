@@ -8,7 +8,7 @@
 
 FrogDevs turns ideas into reality with talent and dedication. We are a graduation work team in Systems Analysis and Development for ETEC Jardim Ângela, together we have the knowledge and focus needed to create a quality work. 
 
-## Members
+## 👨‍💻 Members
 
 - [Helena Vieira Gonçalves da Costa](https://github.com/ahaiiro)
 - [Italo Ferreira Gaspar dos Santos](https://github.com/ItaloGaspar)
