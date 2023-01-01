@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="assets\readme.png" width="200" height="200" alt="Logo"/><br/>
 	<br/>
-	Frog Devs
+	Frog Devs - Inovando o Futuro
 </h3>
 
 ## 🚀 Sobre
@@ -22,3 +22,5 @@ FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equ
 <p align="center">
   <img src="assets\banner.png" alt="Banner"/>
 </p>
+
+[**>>> Read also in English**](en_readme.md)
