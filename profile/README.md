@@ -1,12 +1,23 @@
 <h3 align="center">
 	<img src="assets\readme.png" width="200" height="200" alt="Logo"/><br/>
 	<br/>
-	Frog Developers
+	Frog Devs
 </h3>
 
-<p align="center" textaling="center">
-	We are a group of students and developers made up of knowledge and focus to create quality work for our clients. We think frogs represent the idea of growth, renewal and wholeness well. This is our motto! 🐸
-</p>
+## 🚀 Sobre
+
+FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equipe de TCC em Análise e Desenvolvimento de Sistemas para a ETEC Jardim Ângela, juntos temos o conhecimento e o foco necessário para criar um trabalho de qualidade. 
+
+## Membros
+
+- [Helena Vieira Gonçalves da Costa](https://github.com/ahaiiro)
+- [Italo Ferreira Gaspar dos Santos](https://github.com/ItaloGaspar)
+- [João Augusto da Costa Oliveira](https://github.com/Jokxis)
+- [Leandro dos Santos Eduardo](https://github.com/miraibr)
+- [Vinícius Neves Costa](https://github.com/Jolonte)
+
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frogdevs/)
 	
 <p align="center">
   <img src="assets\banner.png" alt="Banner"/>
