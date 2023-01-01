@@ -23,4 +23,4 @@ FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equ
   <img src="assets\banner.png" alt="Banner"/>
 </p>
 
-[**>>> Read also in English**](en_readme.md)
+[**>>> Read also in English**](https://github.com/FrogDevs/.github/blob/main/profile/en_readme.md)
