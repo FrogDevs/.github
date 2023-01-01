@@ -8,7 +8,7 @@
 
 FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equipe de TCC em Análise e Desenvolvimento de Sistemas para a ETEC Jardim Ângela, juntos temos o conhecimento e o foco necessário para criar um trabalho de qualidade. 
 
-## Membros
+## 👨‍💻 Membros
 
 - [Helena Vieira Gonçalves da Costa](https://github.com/ahaiiro)
 - [Italo Ferreira Gaspar dos Santos](https://github.com/ItaloGaspar)
