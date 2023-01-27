@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="assets\readme.png" width="200" height="200" alt="Logo"/><br/>
 	<br/>
-	Frog Devs - Inovando o Futuro
+	Frogdevs - Inovando o Futuro
 </h3>
 
 ## 🚀 Sobre
