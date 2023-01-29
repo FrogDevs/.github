@@ -16,7 +16,7 @@ FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equ
 - [Leandro dos Santos Eduardo](https://github.com/miraibr)
 - [Vinícius Neves Costa](https://github.com/Jolonte)
 
-## Social Network
+## Rede social
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frogdevs/)
 	
 <p align="center">
