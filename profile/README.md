@@ -10,11 +10,11 @@ FrogDevs transforma ideias em realidade com talento e dedicação. Somos uma equ
 
 ## 👨‍💻 Membros
 
-- [Helena Vieira Gonçalves da Costa](https://github.com/ahaiiro)
-- [Italo Ferreira Gaspar dos Santos](https://github.com/ItaloGaspar)
-- [João Augusto da Costa Oliveira](https://github.com/Jokxis)
-- [Leandro dos Santos Eduardo](https://github.com/miraibr)
-- [Vinícius Neves Costa](https://github.com/Jolonte)
+- [Helena Costa](https://github.com/ahaiiro)
+- [Italo Santos](https://github.com/ItaloGaspar)
+- [João Oliveira](https://github.com/Jokxis)
+- [Leandro Eduardo](https://github.com/miraibr)
+- [Vinícius Costa](https://github.com/Jolonte)
 
 ## Rede social
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frogdevs/)
